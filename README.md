@@ -1,2 +1,0 @@
-# firstdemopy
-firstdemo
